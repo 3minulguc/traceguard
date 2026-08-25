@@ -1,8 +1,6 @@
-# Vestel AOI Sistemi — PCB Hata Tespiti
+# TraceGuard — PCB Hata Tespiti
 
-**Vestel Otomasyon Teknolojileri — Yazılım Birimi Staj Projesi**
-
-YOLOv8 tabanlı nesne tespiti modeli kullanılarak, baskılı devre kartlarındaki (PCB) üretim hatalarının otomatik olarak tespit edildiği bir Otomatik Optik İnceleme (AOI) sistemi prototipi.
+Baskılı devre kartlarındaki (PCB) üretim hatalarının YOLOv8 tabanlı bir nesne tespiti modeliyle otomatik olarak tespit edildiği bir Otomatik Optik İnceleme (AOI) sistemi prototipi.
 
 ## 📋 Proje Özeti
 
@@ -34,7 +32,7 @@ Elektronik üretim hatlarında kalite kontrol sürecini otomatikleştirmek amac�
 
 ## 📁 Dosyalar
 
-- `AOI_Vestel.ipynb` — Veri analizi, model eğitimi, değerlendirme ve Gradio arayüz kodlarının tamamı
+- `TraceGuard.ipynb` — Veri analizi, model eğitimi, değerlendirme ve Gradio arayüz kodlarının tamamı
 - `best.pt` — Eğitilmiş model ağırlıkları
 
 ## 🚀 Kullanım
